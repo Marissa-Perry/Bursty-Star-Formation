@@ -15,9 +15,9 @@
 
 ## Work published in ApJ and presented at UT Austin's Cosmic Frontier Center Conference (May, 2025)
 <p align="center">
-<img width="800" height="600" src= "SFMS_results_figures.png">
+<img width="800" height="600" src= "SFMS_results_figure.png">
 </p>
 
 <p align="center">
-<img width="800" height="600" src= "Ha_to_UV_ratio_results_figures.png">
+<img width="800" height="600" src= "Ha_to_UV_ratio_results_figure.png">
 </p>
